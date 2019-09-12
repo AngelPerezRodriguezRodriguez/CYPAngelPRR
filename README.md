@@ -1,4 +1,4 @@
-# Angel Pérez Rdríguez Rodríguez
+# Angel Pérez Rodríguez Rodríguez
 ## Computadoras y Programación grupo 1157
 ## Semestre 2020-I
 ![Logo FES Aragón](fesa.jpg)
