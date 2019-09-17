@@ -1,0 +1,7 @@
+print("Vamos a invertir el orden los primeros cinco números que ingreses")
+a = int(input("Primer número: "))
+b = int(input("Segundo número: "))
+c = int(input("Tercer número: "))
+d = int(input("Cuarto número: "))
+e = int(input("Quinto número: "))
+print(f"El orden invertido de los números es: {e}, {d}, {c}, {b} y {a}")
