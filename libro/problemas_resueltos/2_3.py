@@ -1,5 +1,5 @@
 a = float(input("Ingresa el coeficiente cuadrático: "))
-b = float(input("Ingresa el coeficiente linela: "))
+b = float(input("Ingresa el coeficiente lineal: "))
 c = float(input("Ingresa el término independiente: "))
 dis = b ** 2 - 4 * a * c
 if dis >= 0:
