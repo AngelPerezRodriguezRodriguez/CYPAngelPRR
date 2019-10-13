@@ -1,6 +1,5 @@
 mat = int(input("Ingresa tu matrícula: "))
-print("(Escribe la carrera empezando con mayúscula y respetando acentos)")
-carr = str(input("Ingresa la carrera en la que estás inscrito: "))
+carr = input("Ingresa la carrera en la que estás inscrito: ")
 sem = int(input("Ingresa el semestre que estás cursando: "))
 prom = float(input("Ingresa tu promedio actual: "))
 if carr == "Economía":
