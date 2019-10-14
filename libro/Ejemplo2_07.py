@@ -1,4 +1,4 @@
-num = int(input("Ingresa un número entero positivo: "))
+num = int(input("Ingresa una opción del uno al cuatro: "))
 v = int(input("Ingresa otro número entero positivo: "))
 if num == 1:
 	val = 100 * v
