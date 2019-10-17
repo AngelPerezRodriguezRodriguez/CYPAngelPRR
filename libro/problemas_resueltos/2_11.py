@@ -8,7 +8,7 @@ elif clave == 18:
 	cost = numin * 4.5
 elif clave == 19:
 	cost = numin * 3.5
-elif clave == 23 and 25:
+elif clave == 23 or 25:                              #En este caso sí es válida la abreviación de: clave == 23 or clave == 25
 	cost = numin * 6
 elif clave == 29:
 	cost = numin * 5

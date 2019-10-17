@@ -8,6 +8,6 @@ if carr == "Economía":
 elif carr == "Computación":
 	if sem > 6 and prom > 8.5:
 		print(f"Felicidades {mat}, de la carrera de {carr}, has sido aceptado")
-elif carr == "Contabilidad" or "Administración":
+elif carr == "Contabilidad" or carr == "Administración":                        #Es importante repetir la variable y no de la forma: carr == "Contabilidad" or "Administración"
 	if sem > 5 and prom > 8.5:
 		print(f"Felicidades {mat}, de la carrera de {carr}, has sido aceptado")
