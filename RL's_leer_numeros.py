@@ -2,8 +2,8 @@ archivo = open ("numeros.txt","rt")
 lista = archivo.readlines()
 print(lista)
 
-lista_num = []
 print("")
+lista_num = []
 for elem in lista:
     print(elem.strip(),end='')
     for numero in elem.split(','):
