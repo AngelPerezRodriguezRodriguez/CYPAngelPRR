@@ -1,0 +1,9 @@
+marca , modelo , almacenamiento , velocidad , ram , color
+Huawei, P20 Pro , 64 , 2.3 , 6 , azul 
+Huawei, P20 Lite , 32 , 1.8 , 4 , negro 
+Huawei, P20 Lite , 32 , 1.8 , 4 , blanco
+Samsung , J7 , 16 , 1.2 , 4 , gris 
+Samsung , J7 , 16 , 1.2 , 4 , rojo
+Apple , iPhone XII , 1024 , 6.8 , 32 , negro espacial 
+Apple , iPhone XI , 512 , 3.8 , 16 , blanco
+Apple , iPhone X , 256 , 2.8 , 16 , rosa
